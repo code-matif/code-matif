@@ -11,7 +11,7 @@ My primary stack includes **Python, FastAPI, and Laravel**, and I’m actively e
 
 I’m actively working on real-world backend projects while experimenting with AI-powered features to build smarter and more responsive applications.
 
-### 📬 Let’s Connect!
+### Let’s Connect!
 
 I’m always open to discussing backend development, AI technologies, interesting projects, and potential collaborations.
 
