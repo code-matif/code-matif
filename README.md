@@ -4,14 +4,10 @@ I’m a passionate **Backend-Focused Full-Stack Developer** focused on building 
 
 My primary stack includes **Python, FastAPI, and Laravel**, and I’m actively expanding my skills in **AI Engineering**, LLM integration, and modern machine learning workflows.
 
-### 🚀 What I Bring to the Table
-
 * **Backend Engineering:** Designing and building clean, scalable RESTful APIs with FastAPI and Laravel.
 * **Database Management:** Designing relational database schemas and optimizing queries using PostgreSQL, MySQL, SQL, and NoSQL databases.
 * **Software Development:** Writing clean and maintainable code, using Git/GitHub for version control, and testing APIs with Postman.
 * **AI Engineering:** Exploring LLM integrations, prompt engineering, and intelligent backend workflows.
-
-### 💡 What I’m Currently Building & Learning
 
 I’m actively working on real-world backend projects while experimenting with AI-powered features to build smarter and more responsive applications.
 
