@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m a passionate **Backend Developer** focused on building efficient, scalable, and secure web applications and APIs.
+I’m a passionate **Backend-Focused Full-Stack Developer** focused on building efficient, scalable, and secure web applications and APIs.
 
 My primary stack includes **Python, FastAPI, and Laravel**, and I’m actively expanding my skills in **AI Engineering**, LLM integration, and modern machine learning workflows.
 
